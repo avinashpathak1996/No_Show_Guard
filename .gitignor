@@ -7,3 +7,6 @@ __pycache__/
 venv/
 .vscode/
 .DS_Store
+*.csv
+Data/
+rejected_rows.json
