@@ -1,0 +1,5 @@
+pandas
+mumpy
+scikit-learn
+google-genai
+pydantic
